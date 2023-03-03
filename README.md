@@ -1,2 +1,2 @@
 # mailchimp_page
-![Semantic description of image]("C:\Users\CHANDANA B\Desktop\gravitech_sample\internal task 1\webpage.png" "Mailchimp webpage")
+![webpage](https://user-images.githubusercontent.com/116903773/222826864-5c3e57d2-539f-4d8c-9362-492760e5506e.png)
